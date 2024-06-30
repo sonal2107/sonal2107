@@ -2,7 +2,7 @@
 - 👀 I’m interested in ReactJS , Tailwind CSS , Data analytics using python , Power BI, ThreeJS
 - 🌱 I’m currently learning time management , problem solving and  team collaboration
 - 💞️ I’m looking to collaborate on the projects based on frontend and anayltics
-- 📫 How to reach me email: sonal2172000@gmail.com
+- 📫 How to reach me email: sonalkasare.24@gmail.com
 
 <!---
 sonal2107/sonal2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
